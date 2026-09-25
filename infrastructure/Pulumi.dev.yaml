@@ -3,8 +3,8 @@ config:
   kubeContext: kind-lab
   namespace: lab
   deploymentName: lab-deploy
-  image: ghcr.io/christiancostap/platform-challenge
-  tag: 8f9344c5ce25
+  image: christiancostap/lab
+  tag: ff11fe3844f2
   replicas: 2
   serviceName: lab-svc
   servicePort: 8081
