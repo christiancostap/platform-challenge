@@ -4,4 +4,4 @@
 .vscode/
 
 # Pulumi
-*/.pulumi/*
+.pulumi/
