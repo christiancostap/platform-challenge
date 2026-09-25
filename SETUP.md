@@ -1,6 +1,6 @@
 # Setup
 
-This project was tested using **Debian 13 with Cinnamon**.
+This project was tested using **Debian 13**.
 
 ## Prerequisites
 
