@@ -1,0 +1,11 @@
+encryptionsalt: v1:AVftSJi9yMM=:v1:3MzoIHm1KYSMyCF+:fNRxtMwvYLS+0qIa9DpJh/JURUM7UA==
+config:
+  kubeContext: kind-lab
+  namespace: lab
+  deploymentName: lab-deploy
+  image: christiancostap/lab
+  tag: da95926840d5
+  replicas: 2
+  serviceName: lab-sv
+  servicePort: 8081
+  targetPort: 8081
